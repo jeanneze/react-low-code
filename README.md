@@ -2,7 +2,7 @@
  * @Author: zhaojing834
  * @Date: 2023-06-16 17:31:29
  * @LastEditors: zhaojing834
- * @LastEditTime: 2023-06-16 17:38:08
+ * @LastEditTime: 2023-06-16 18:01:38
  * @FilePath: /react-low-code/README.md
  * @Descripttion: 业务描述
 -->
@@ -52,3 +52,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# 初始化 eslint
+`
+npx eslint --init
+`
