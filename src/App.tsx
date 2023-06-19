@@ -2,7 +2,7 @@
  * @Author: zhaojing834
  * @Date: 2023-06-16 17:31:29
  * @LastEditors: zhaojing834
- * @LastEditTime: 2023-06-16 18:14:26
+ * @LastEditTime: 2023-06-19 10:17:45
  * @FilePath: /react-low-code/src/App.tsx
  * @Descripttion: 业务描述
  */
@@ -11,7 +11,7 @@ import logo from './logo.svg'
 import './App.css'
 
 function App() {
-  const ax = 10
+  const axt = 10
   return (
     <div className="App">
       <header className="App-header">
